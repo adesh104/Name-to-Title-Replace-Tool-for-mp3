@@ -1,2 +1,4 @@
-# Name-to-Title-Replace-Tool-for-mp3
-This Tool will help you to replace the tital metadata to rename
+In rename_mp3 change path
+folder = "C:/Users/YourName/Music"  # 👈 Change this to your MP3 folder path
+
+Now you are Ready to Run .bat
