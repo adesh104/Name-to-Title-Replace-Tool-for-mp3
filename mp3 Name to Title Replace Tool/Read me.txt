@@ -1,1 +1,5 @@
+
+In rename_mp3 change path
 folder = "C:/Users/YourName/Music"  # 👈 Change this to your MP3 folder path
+
+Now you are Ready to Run .bat
