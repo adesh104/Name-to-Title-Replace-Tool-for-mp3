@@ -1,0 +1,1 @@
+folder = "C:/Users/YourName/Music"  # 👈 Change this to your MP3 folder path
